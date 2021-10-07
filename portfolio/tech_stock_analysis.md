@@ -3,7 +3,7 @@ layout: notebook
 title: Stock Market Analysis for Tech Stocks
 skills: Python, Pandas, Seaborn, Financial Analysis
 external_type: Github
-external_url: https://github.com/sajal2692/data-science-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb
+external_url:
 description: Analysis of technology stocks, including change in price over time, daily returns, and stock behaviour prediction.
 ---
 ---
