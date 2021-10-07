@@ -3,7 +3,7 @@ layout: notebook
 title: Finding Donors for Charity using Machine Learning
 skills: Python, Scikit-learn, Decision Trees, SVM, Adaboost
 external_type: Github
-external_url: https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb
+external_url: 
 description: An Adaboost classifier to accurately predict whether an individual makes more than $50,000, and identify likely donors for a non-profit organisation.
 ---
 ---
